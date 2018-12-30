@@ -1,4 +1,3 @@
-# HomeAwayCodingChallenge
 # HomeAway Coding Challenge
 ## Architecture
 Every app has the following components:
