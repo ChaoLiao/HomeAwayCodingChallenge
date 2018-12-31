@@ -28,3 +28,8 @@ My experiences and preferences are using Autolayout to build the entire views pr
 
 ## Testing
 I have unit tests for most critical logic components. I would add UI tests if I have more time.
+
+## TODOs
+* UI Tests
+* Placeholder images
+
